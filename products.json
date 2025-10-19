@@ -1,18 +1,14 @@
 [
   {
     "id": 1,
-    "name": "Caffe Mocha"
+    "name": "Machiato"
   },
   {
     "id": 2,
-    "name": "Flat White"
+    "name": "Latte"
   },
   {
     "id": 3,
-    "name": "Mocha Fusion"
-  },
-  {
-    "id": 4,
-    "name": "Caffe Panna"
+    "name": "Americano"
   }
 ]
