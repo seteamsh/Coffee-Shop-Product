@@ -7,7 +7,7 @@
     "price": 4.53,
     "rating": "4.8",
     "image": "https://drive.google.com/file/d/1bECuhvhS1Q0i1g4ZcjJyOXbxENrDXqp2/view?usp=drive_link",
-    "category": ["machiato"]
+    "category": ["Machiato"]
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "price": 3.53,
     "rating": "4.8",
     "image": "https://drive.google.com/file/d/1JY_pn-Lus7_wa8NoKMpTNB26rjPmNvgi/view?usp=drive_link",
-    "category": ["americano"]
+    "category": ["Americano"]
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "price": 7.53,
     "rating": "4.8",
     "image": "https://drive.google.com/file/d/1cVtSR1dwt5fUSr64TnJmHTU6IXQROIQr/view?usp=drive_link",
-    "category": ["machiato"]
+    "category": ["Machiato"]
   },
   {
     "id": 4,
@@ -37,6 +37,6 @@
     "price": 5.53,
     "rating": "4.8",
     "image": "https://drive.google.com/file/d/105IGjkZ_RNowim96NNxem3rP81eu7oVo/view?usp=drive_link",
-    "category": ["latte"]
+    "category": ["Latte"]
   }
 ]
