@@ -16,7 +16,7 @@
     "description": "fd",
     "price": 3.53,
     "rating": "4.8",
-    "image": "https://drive.google.com/file/d/1JY_pn-Lus7_wa8NoKMpTNB26rjPmNvgi/view",
+    "image": "https://github.com/seteamsh/Coffee-Shop-Product/blob/main/Images/flatWhite.png?raw=true",
     "category": [{ "id": 3, "name": "Americano" }]
   },
   {
