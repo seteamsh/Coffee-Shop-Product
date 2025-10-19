@@ -6,7 +6,7 @@
     "description": "fd",
     "price": 4.53,
     "rating": "4.8",
-    "image": "https://drive.google.com/file/d/1bECuhvhS1Q0i1g4ZcjJyOXbxENrDXqp2/view",
+    "image": "https://github.com/seteamsh/Coffee-Shop-Product/blob/main/Images/caffeMocha.png?raw=true",
     "category": [{ "id": 1, "name": "Machiato" }]
   },
   {
