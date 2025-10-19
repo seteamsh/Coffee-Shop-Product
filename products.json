@@ -36,7 +36,7 @@
     "description": "fd",
     "price": 5.53,
     "rating": "4.8",
-    "image": "https://drive.google.com/file/d/105IGjkZ_RNowim96NNxem3rP81eu7oVo/view?usp=sharing",
+    "image": "https://github.com/seteamsh/Coffee-Shop-Product/blob/main/Images/caffePanna.png?raw=true",
     "category": [{ "id": 2, "name": "Latte" }]
   }
 ]
